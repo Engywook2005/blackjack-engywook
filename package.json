@@ -1,0 +1,23 @@
+{
+  "name": "blackjack-engywook",
+  "version": "0.0.0",
+  "description": "You can play to win but you won't win money.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Engywook2005/blackjack-engywook.git"
+  },
+  "keywords": [
+    "cards",
+    "blackjack"
+  ],
+  "author": "Greg Thorson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Engywook2005/blackjack-engywook/issues"
+  },
+  "homepage": "https://github.com/Engywook2005/blackjack-engywook#readme"
+}
